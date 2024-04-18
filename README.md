@@ -36,5 +36,8 @@ be able to beat this simple AI in this game, best possible outcome for user is d
 <img src="img_1.png">
 <p> If you think, you can win, try it !</p>
 
-  
-<p>For the further information you can visit page <a>https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/</a></p>
+<h2>Credits:</h2>
+<p>Thanks geegsforgeeks.org for helping me understand basic of this algorithm, I can recomend you use their serial about <a href="https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/">Minimax</a></p>
+ <br>
+<p>Also if you want more information about problem, i also can recomend this topic on famous page <a href="https://en.wikipedia.org/wiki/Minimax">Wikipedia</a></p>
+
