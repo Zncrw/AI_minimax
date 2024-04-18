@@ -6,10 +6,10 @@ AI is using minimax algorithm to find out the best move posible and then perform
 be able to beat this simple AI in this game, best posible outcome for user is draw.</p>
 <h3>About minimax algoritm:</h3>
 <p>Minimax algoritm, is used in strategic game between two players. Algoritm is building decision tree and minimalizing/maximalixing the outcome. This algoritm is mostly used in game development.</p>
- <h4>How algoritm works?:</h4>
+ <h4>How algorithm works?:</h4>
  <ol>
    <li>Try moves</li>
-   <p>Algoritm generates every posible move in curent state and try it</p>
+   <p>Algorithm generates every posible move in curent state and try it</p>
    
    <li>Evaluate</li>
    <p>For every posible move evaluate function gets "score" to determine the best move</p>
@@ -22,7 +22,11 @@ be able to beat this simple AI in this game, best posible outcome for user is dr
 
    <li>Choose best move</li>
    <p>Here algorithm takes best move posible and waits for opponent</p>   
- </ol>  
+ </ol>
+ <h2>Libraries:</h2>
+ <p> In this project i decided to use <bold>numpy<bold> library to make game board(grid) and used function numpy.trace
+ to check diagonals for a winner. Any other libraries used here are in base package of python 3. For version of numpy
+ check file <a href="requirements.txt">requirments</p>
 
   
 <p>For the further information you can visit page <a>https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/</a></p>
