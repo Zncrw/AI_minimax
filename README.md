@@ -1,4 +1,4 @@
-# AI_minimax
+<h1 text="center";>AI_minimax</h1> 
 
 ## About project:
 In this project i want to program simple AI bot to play tic-tac-toe game on 3x3 gaming board.
