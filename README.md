@@ -31,9 +31,9 @@ be able to beat this simple AI in this game, best possible outcome for user is d
 
  <h2>Showcase:</h2>
  <p> Game starting with empty grid and waits for player to make a move. Move can be done by inserting number between 0-2 for a row and 0-2 for a column.</p>
-![img.png](img.png)
+<img src="img.png">
 <p> After the game is over, the final statement is printed in console to find out result</p>
-![img_1.png](img_1.png)
+<img src="img_1.png">
 <p> If you think, you can win, try it !</p>
 
   
