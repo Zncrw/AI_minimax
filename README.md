@@ -24,9 +24,11 @@ be able to beat this simple AI in this game, best posible outcome for user is dr
    <p>Here algorithm takes best move posible and waits for opponent</p>   
  </ol>
  <h2>Libraries:</h2>
- <p> In this project i decided to use <bold>numpy<bold> library to make game board(grid) and used function numpy.trace
+ <p> In this project i decided to use NUMPY library to make game board(grid) and used function numpy.trace
  to check diagonals for a winner. Any other libraries used here are in base package of python 3. For version of numpy
- check file <a href="requirements.txt">requirments</p>
+ check file <a href="requirements.txt">requirments</a> </p>
+
+ <h2>Showcase:</h2>
 
   
 <p>For the further information you can visit page <a>https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/</a></p>
