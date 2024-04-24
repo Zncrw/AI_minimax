@@ -1,6 +1,6 @@
 <h1>AI_minimax</h1> 
 <h2>Video Demo:</h2>
- [<URL HERE>](https://youtu.be/cL2jWmkOhUc)
+ (https://youtu.be/cL2jWmkOhUc)
 
 <h2>About project:</h2> 
 <p>In this project i want to program simple AI bot to play tic-tac-toe game on 3x3 gaming board.
